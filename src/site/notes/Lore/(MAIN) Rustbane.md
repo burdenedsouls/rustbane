@@ -5,7 +5,7 @@
 <div align=center>
 
 ![](https://i.imgur.com/Couv0cT.png)
-
+<br>
 Rustbane is a custom TableTop RPG built on [2400: Cosmic Highway](https://www.scribd.com/document/526840838/2400-Cosmic-Highway-v1-4-singles).
 <br>
 The [[Lore/Setting\|Setting]] is space, the dark and dirty corner of a galaxy. The sector where you can get what you want for cheap, if you don't mind it being second hand and it possibly not working. 
