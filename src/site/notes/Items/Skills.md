@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/items/skills/"}
+---
+
+- Climbing
+- Connections
+- Deception
+- Hacking
+- Electronics
+- Engines
+- Explosives
+- Forgery
+- Hand-to-hand
+- Intimidation
+- Labor
+- Persuasion
+- Piloting
+- Reading People
+- Running
+- Shooting
+- Sleight of Hand
+- Spacewalking
+- Stealth
+- Tracking
