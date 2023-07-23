@@ -53,6 +53,7 @@ Hail nearby ships and relay communications with away teams.
 
 Escape pod fits 4, emits tachyon distress beacon. 
 
+
 ##### Upgrade with:
 - Additional escape pod
 - Fighter (fits 2, armed, sub-light only), 
@@ -95,7 +96,7 @@ Discern between large objects in nearby space.
 ##### Upgrade with: 
 - Deep-space sensors (100× reach), 
 - Life-sign scan (rough count on nearby vessel or colony), 
-- ## Planetary survey (topographic/atmospheric scan), 
+- Planetary survey (topographic/atmospheric scan), 
 - Probes, 
 - Tactical scan (details nearby ship’s active systems).
 <br>
