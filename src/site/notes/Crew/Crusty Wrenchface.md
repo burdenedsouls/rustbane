@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/crew/crusty-wrenchface/"}
 ---
 
+![](https://i.imgur.com/qlMnbDD.png)
+
 ## Items:
 
 - Commlink/Phone
