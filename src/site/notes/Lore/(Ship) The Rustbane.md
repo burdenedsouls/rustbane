@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/lore/ship-the-rustbane/"}
 ---
 
+<div align=center>
+
 ![](https://i.imgur.com/LVxrxcb.png)
 
 The Rustbane is a weathered, mid-sized spacecraft that has seen its share of wear and tear over the years. Its metal hull, once painted in a pristine white, is now tarnished by countless space dust and debris. However, the ship wears its imperfections like a badge of honor, a testament to the many escapades it has weathered and the trials it has survived.
@@ -110,3 +112,4 @@ Standard defense turrets are only useful for deflecting asteroids and torpedoes.
 - Military-grade turret, 
 - Torpedo (1 EMP or warhead), 
 - Torpedo tube
+</div>
