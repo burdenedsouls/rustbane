@@ -39,7 +39,8 @@ The Rustbane may not be the shiniest or newest vessel in the galaxy, but it is a
 <br>
 
 -----------------------------------
-### COMMS: 
+# COMMS: 
+
 Hail nearby ships and relay communications with away teams. 
 <br>
 ##### Upgrade with:
@@ -48,15 +49,17 @@ Hail nearby ships and relay communications with away teams.
 - Eachyon burst (eliminates in-system lag, but when used in the same room, signal plays a split  second before you speak).
 <br>
 -------------------------------
-## CRAFTS: 
+# CRAFTS: 
+
 Escape pod fits 4, emits tachyon distress beacon. 
 
 ##### Upgrade with:
 - Additional escape pod
 - Fighter (fits 2, armed, sub-light only), 
 - Shuttle (fits 8, sub-light only, reentry-rated hull).
--------------------------------
-## EQUIPMENT: 
+---------------------------
+# EQUIPMENT: 
+
 Includes vac suits for entire crew. 
 <br>
 ##### Upgrade with:
@@ -67,7 +70,8 @@ Includes vac suits for entire crew.
 - Tow cable.
 <br>
 -------------------------------
-## HULL ARMOR: 
+# HULL ARMOR: 
+
 Break harmlessly for defense. 
 <br>
 ##### Upgrade with:
@@ -76,14 +80,16 @@ Break harmlessly for defense.
 - Sun shielding (for Mercury-range exposure).
 <br>
 -------------------------------
-## JUMP DRIVE: 
+# JUMP DRIVE: 
+
 Required for interstellar travel. 
 <br>
 ##### Upgrade with:
 - supercooled (faster/longer range).
 <br>
 -------------------------------
-## SENSORS: 
+# SENSORS: 
+
 Discern between large objects in nearby space. 
 <br>
 ##### Upgrade with: 
@@ -94,7 +100,8 @@ Discern between large objects in nearby space.
 - Tactical scan (details nearby ship’s active systems).
 <br>
 -------------------------------
-## SPACES: 
+# SPACES: 
+
 Includes:
 <br>
 - Bridge
@@ -113,7 +120,8 @@ Includes:
 - Science lab.
 <br>
 -------------------------------
-## SUB-LIGHT DRIVE: 
+# SUB-LIGHT DRIVE: 
+
 Suitable for slow burn in space. 
 <br>
 ##### Upgrade with:
@@ -121,7 +129,8 @@ Suitable for slow burn in space.
 - Racing engine (help speed).
 <br>
 -------------------------------
-## WEAPONS: 
+# WEAPONS: 
+
 Standard defense turrets are only useful for deflecting asteroids and torpedoes. 
 <br>
 ##### Upgrade with:
