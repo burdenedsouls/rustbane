@@ -2,6 +2,22 @@
 {"dg-publish":true,"permalink":"/crew/slosh/"}
 ---
 
+
+```avatar
+image: https://i.imgur.com/KrNcA9W.png
+description: |-
+  ## Skills:
+
+   - DOCTOR: Skilled in 
+  	 - Medicine (d8), 
+  	 - Reading People (d8). 
+   - Take a medical bay for the ship.
+   
+   - DOWNSIDER:
+  	 - Shooting
+  	 - Running
+  	 - Electronics!
+```
 ## Items:
 
 Commlink/Phone
@@ -12,14 +28,3 @@ Rifle:
 Armor:
 - Vest
 
-## Skills:
-
- - DOCTOR: Skilled in 
-	 - Medicine (d8), 
-	 - Reading People (d8). 
- - Take a medical bay for the ship.
- 
- - DOWNSIDER:
-	 - Shooting
-	 - Running
-	 - Electronics
