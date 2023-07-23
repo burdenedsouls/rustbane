@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/crew/crusty-wrenchface/"}
 ---
 
-<div>
 ![](https://i.imgur.com/zrICJ93.png)
-</div>
+
+
 ## Items:
 test
 - Commlink/Phone
@@ -22,3 +22,4 @@ test
 	 - Connections
 	 - Explosives
 	 - Engines
+	 - 
