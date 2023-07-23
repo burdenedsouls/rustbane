@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/crew/crusty-wrenchface/"}
 ---
 
-
-![](https://i.imgur.com/qlMnbDD.png)
+![](https://i.imgur.com/zrICJ93.png)
 
 ## Items:
 
