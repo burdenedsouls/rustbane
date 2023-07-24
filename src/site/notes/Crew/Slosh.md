@@ -21,7 +21,7 @@
 Commlink/Phone
 
 Rifle:
-- **[Astral Ripper R-77](Weapons#^1707f9):** An experimental railgun rifle with incredible penetration capabilities, issued to special forces units on covert missions.
+- **[Astral Ripper R-77](Weapons#^R-77):** An experimental railgun rifle with incredible penetration capabilities, issued to special forces units on covert missions.
 
 Armor:
 - Vest
