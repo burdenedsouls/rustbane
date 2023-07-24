@@ -24,7 +24,7 @@
 	- ##### Starburst XR-800:
 		- A rapid-fire energy rifle with a dazzling visual effect, capable of illuminating the battlefield with bursts of vibrant light.
 	- ##### Astral Ripper R-77:
-{ #1707f9}
+{ #R-77}
 
 		- An experimental railgun rifle with incredible penetration capabilities, issued to special forces units on covert missions.
 	- ##### Neutron Fury N-500:
