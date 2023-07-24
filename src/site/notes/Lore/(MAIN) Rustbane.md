@@ -17,7 +17,7 @@ Rustbane is a custom TableTop RPG built on
 [[Lore/(Ship) The Rustbane\|(Ship) The Rustbane]]
 [[Items/Weapons\|Weapons]]
 [[Items/Tools\|Tools]]
-[[Items/Armor\|Armor]] to take on any challenge as they appear.
+[[Items/Armor\|Armor]]
 
 <br>
 
