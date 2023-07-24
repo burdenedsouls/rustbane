@@ -6,7 +6,7 @@
 
 
 ## Items:
-test
+
 - Commlink/Phone
 - Welding gun
 - Repair tools
@@ -14,12 +14,11 @@ test
 ## Skills:
 
  - ENGINEER: Skilled in 
-	 - Electronics (d8), 
-	 - Engines (d10). 
+	 - Electronics (d8)
+	 - Engines (d10)
  - Picked Planetary Sensors.
  
  - Spacer:
-	 - Connections
-	 - Explosives
-	 - Engines
-	 - 
+	 - Connections(d8)
+	 - Explosives(d8)
+	 - Engines(d10)
