@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/tools/"}
 ---
 
-- Flame Thrower (bulky)
+- Flame Thrower (BULKY)
 - Low-G Jetpack
 - Med Scanner
 - Repair Tools
