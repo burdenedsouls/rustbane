@@ -29,9 +29,13 @@
 </html>
 { #NV5000}
 
-- ##### C:
-		- A high-energy plasma pistol, wielded by elite space marines.
+- ##### NovaBolt 5000:
 
+<html>
+ <div class="main">
+ <div width=128px><img src="https://i.imgur.com/VKXpXkm.png"/></div><div style="padding-left:20px;width:70%"><b>A high-energy plasma pistol, wielded by elite space marines.</b></div>
+ </div>
+</html>
 { #XR-22}
 
 - #### Voidstalker XR-22:
