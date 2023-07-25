@@ -11,7 +11,8 @@
 	- EMP
 	- Shock
 
-- #### Pistols:{ #MK-IV}
+- #### Pistols:
+![](https://i.imgur.com/F4NYW1e.png){ #MK-IV}
 
 	- ##### Stellar Magnum MK-IV:
 		- A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.{ #5000}
@@ -28,8 +29,6 @@
 		- A rapid-fire energy rifle with a dazzling visual effect, capable of illuminating the battlefield with bursts of vibrant light.{ #R-77}
 
 	- ##### Astral Ripper R-77:
-{ #R-77}
-
 		- An experimental railgun rifle with incredible penetration capabilities, issued to special forces units on covert missions.{ #N-500}
 
 	- ##### Neutron Fury N-500:
