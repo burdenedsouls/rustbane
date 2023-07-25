@@ -11,7 +11,7 @@
 <br>
 
 Rustbane is a custom TableTop RPG built on 
-[[Rulebook\|2400: Cosmic Highway]]
+[2400: Cosmic Highway](https://jasontocci.itch.io/2400)
 
 [[Crew/Crew\|Crew]] 
 [[Lore/(Ship) The Rustbane\|(Ship) The Rustbane]]
