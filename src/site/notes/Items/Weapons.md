@@ -22,7 +22,7 @@
 
 	- ##### Stellar Magnum MK-IV:
  <div class="main">
- <div width=64px><img src="https://i.imgur.com/F4NYW1e.png"/></div><div style="padding-left:10px">**A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.**</div>
+ <div width=64px><img src="https://i.imgur.com/F4NYW1e.png"/></div><div style="padding-left:20px;width:70%"><b>A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.</b></div>
  </div>
 { #5000}
 
