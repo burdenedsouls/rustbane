@@ -21,14 +21,15 @@
 #### Pistols:{ #MK-IV}
 
 - ##### Stellar Magnum MK-IV:
+
 <html>
  <div class="main">
- <div width=64px><img src="https://i.imgur.com/F4NYW1e.png"/></div><div style="padding-left:20px;width:70%"><b>A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.</b></div>
+ <div width=128px><img src="https://i.imgur.com/vtOaxFf.png"/></div><div style="padding-left:20px;width:70%"><b>A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.</b></div>
  </div>
 </html>
-{ #5000}
+{ #NV5000}
 
-- ##### NovaBolt 5000:
+- ##### C:
 		- A high-energy plasma pistol, wielded by elite space marines.
 
 { #XR-22}
