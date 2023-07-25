@@ -26,7 +26,6 @@
  </div>
 { #5000}
 
-		
 	- ##### NovaBolt 5000:
 		- A high-energy plasma pistol, wielded by elite space marines.{ #XR-22}
 
