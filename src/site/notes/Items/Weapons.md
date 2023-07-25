@@ -18,29 +18,26 @@
 	- EMP
 	- Shock
 
-#### Pistols:{ #MK-IV}
-
+#### Pistols:
 - ##### Stellar Magnum MK-IV:
 
 <html>
  <div class="main">
- <div width=128px><img src="https://i.imgur.com/vtOaxFf.png"/></div><div style="padding-left:20px;width:70%"><b>A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.</b></div>
+ <div width=100px><img src="https://i.imgur.com/vtOaxFf.png"/></div><div style="padding-left:20px;width:70%"><b>A sleek, space-age pistol known for its precision and power, favored by space mercenaries and bounty hunters.</b></div>
  </div>
 </html>
-{ #NV5000}
-
 - ##### NovaBolt 5000:
-
 <html>
  <div class="main">
- <div width=128px><img src="https://i.imgur.com/VKXpXkm.png"/></div><div style="padding-left:20px;width:70%"><b>A high-energy plasma pistol, wielded by elite space marines.</b></div>
+ <div width=100px><img src="https://i.imgur.com/VKXpXkm.png"/></div><div style="padding-left:20px;width:70%"><b>A high-energy plasma pistol, wielded by elite space marines.</b></div>
  </div>
 </html>
-{ #XR-22}
-
-- #### Voidstalker XR-22:
-
-		- A semi-automatic, rapid-fire pistol designed for space law enforcement, equipped with non-lethal stun settings for apprehending targets alive
+- ##### Voidstalker XR-22:
+<html>
+ <div class="main">
+ <div width=100px><img src="https://i.imgur.com/GLmlYnV.png"/></div><div style="padding-left:20px;width:70%"><b>A semi-automatic, rapid-fire pistol designed for space law enforcement, equipped with non-lethal stun settings for apprehending targets alive.</b></div>
+ </div>
+</html>
 
 #### Rifles: (BULKY){ #XR-800}
 
