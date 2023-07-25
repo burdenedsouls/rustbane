@@ -1,6 +1,13 @@
 ---
 {"dg-publish":true,"permalink":"/items/weapons/"}
 ---
+
+<style>  
+div {
+	display: flex;
+	justify-content: center;
+}  
+</style>
 { #Grenades}
 
 - #### Grenades (4 to start) 
